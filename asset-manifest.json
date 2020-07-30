@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/research-website/static/css/main.5f361e03.chunk.css",
-    "main.js": "/research-website/static/js/main.7844cc5a.chunk.js",
-    "main.js.map": "/research-website/static/js/main.7844cc5a.chunk.js.map",
+    "main.css": "/research-website/static/css/main.c5d923a2.chunk.css",
+    "main.js": "/research-website/static/js/main.a16127e0.chunk.js",
+    "main.js.map": "/research-website/static/js/main.a16127e0.chunk.js.map",
     "runtime-main.js": "/research-website/static/js/runtime-main.ab91dc3c.js",
     "runtime-main.js.map": "/research-website/static/js/runtime-main.ab91dc3c.js.map",
     "static/css/2.af3c1da9.chunk.css": "/research-website/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f8d27b44.chunk.js": "/research-website/static/js/2.f8d27b44.chunk.js",
-    "static/js/2.f8d27b44.chunk.js.map": "/research-website/static/js/2.f8d27b44.chunk.js.map",
+    "static/js/2.5c062805.chunk.js": "/research-website/static/js/2.5c062805.chunk.js",
+    "static/js/2.5c062805.chunk.js.map": "/research-website/static/js/2.5c062805.chunk.js.map",
     "index.html": "/research-website/index.html",
-    "precache-manifest.27dca47f7f1319fd1dc1d6b5c48ed59f.js": "/research-website/precache-manifest.27dca47f7f1319fd1dc1d6b5c48ed59f.js",
+    "precache-manifest.9069abad4932032ed2fffc7568628740.js": "/research-website/precache-manifest.9069abad4932032ed2fffc7568628740.js",
     "service-worker.js": "/research-website/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/research-website/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/research-website/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f8d27b44.chunk.js.LICENSE.txt": "/research-website/static/js/2.f8d27b44.chunk.js.LICENSE.txt",
+    "static/css/main.c5d923a2.chunk.css.map": "/research-website/static/css/main.c5d923a2.chunk.css.map",
+    "static/js/2.5c062805.chunk.js.LICENSE.txt": "/research-website/static/js/2.5c062805.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/research-website/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ab91dc3c.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f8d27b44.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7844cc5a.chunk.js"
+    "static/js/2.5c062805.chunk.js",
+    "static/css/main.c5d923a2.chunk.css",
+    "static/js/main.a16127e0.chunk.js"
   ]
 }
