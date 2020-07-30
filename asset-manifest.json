@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/research-website/static/css/main.c5d923a2.chunk.css",
-    "main.js": "/research-website/static/js/main.a16127e0.chunk.js",
-    "main.js.map": "/research-website/static/js/main.a16127e0.chunk.js.map",
+    "main.css": "/research-website/static/css/main.8cb89e1a.chunk.css",
+    "main.js": "/research-website/static/js/main.bf7006d6.chunk.js",
+    "main.js.map": "/research-website/static/js/main.bf7006d6.chunk.js.map",
     "runtime-main.js": "/research-website/static/js/runtime-main.ab91dc3c.js",
     "runtime-main.js.map": "/research-website/static/js/runtime-main.ab91dc3c.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/research-website/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5c062805.chunk.js": "/research-website/static/js/2.5c062805.chunk.js",
-    "static/js/2.5c062805.chunk.js.map": "/research-website/static/js/2.5c062805.chunk.js.map",
+    "static/css/2.867adc86.chunk.css": "/research-website/static/css/2.867adc86.chunk.css",
+    "static/js/2.385eb0ec.chunk.js": "/research-website/static/js/2.385eb0ec.chunk.js",
+    "static/js/2.385eb0ec.chunk.js.map": "/research-website/static/js/2.385eb0ec.chunk.js.map",
     "index.html": "/research-website/index.html",
-    "precache-manifest.9069abad4932032ed2fffc7568628740.js": "/research-website/precache-manifest.9069abad4932032ed2fffc7568628740.js",
+    "precache-manifest.4cd3ae7bb774e48f9c4b407cc72deeec.js": "/research-website/precache-manifest.4cd3ae7bb774e48f9c4b407cc72deeec.js",
     "service-worker.js": "/research-website/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/research-website/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.c5d923a2.chunk.css.map": "/research-website/static/css/main.c5d923a2.chunk.css.map",
-    "static/js/2.5c062805.chunk.js.LICENSE.txt": "/research-website/static/js/2.5c062805.chunk.js.LICENSE.txt",
+    "static/css/2.867adc86.chunk.css.map": "/research-website/static/css/2.867adc86.chunk.css.map",
+    "static/css/main.8cb89e1a.chunk.css.map": "/research-website/static/css/main.8cb89e1a.chunk.css.map",
+    "static/js/2.385eb0ec.chunk.js.LICENSE.txt": "/research-website/static/js/2.385eb0ec.chunk.js.LICENSE.txt",
+    "static/media/Brendan_web.png": "/research-website/static/media/Brendan_web.380246f3.png",
+    "static/media/mdb.css": "/research-website/static/media/arrow_right.8ef6a08c.svg",
     "static/media/logo.svg": "/research-website/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ab91dc3c.js",
-    "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5c062805.chunk.js",
-    "static/css/main.c5d923a2.chunk.css",
-    "static/js/main.a16127e0.chunk.js"
+    "static/css/2.867adc86.chunk.css",
+    "static/js/2.385eb0ec.chunk.js",
+    "static/css/main.8cb89e1a.chunk.css",
+    "static/js/main.bf7006d6.chunk.js"
   ]
 }
