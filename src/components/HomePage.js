@@ -6,7 +6,9 @@ import Form from 'react-bootstrap/Form';
 import FormControl from 'react-bootstrap/Form';
 import logo from '../Northeastern_logo.svg.png';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-
+import '../custom.scss';
+import Jumbotron from 'react-bootstrap/Jumbotron';
+import Container from 'react-bootstrap/Container';
 
 export default class HomePage extends React.Component {
     render() {
@@ -26,19 +28,27 @@ export default class HomePage extends React.Component {
     <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
         <Nav.Link href="#home">Home</Nav.Link>
-        <Nav.Link href="#link">Link</Nav.Link>
-        <NavDropdown title="Dropdown" id="basic-nav-dropdown">
+        <Nav.Link href="#link">Minority Disadvantages</Nav.Link>
+        {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
             <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
             <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
             <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
             <NavDropdown.Divider />
             <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
-        </NavDropdown>
+        </NavDropdown> */}
+         <Nav.Link href="#link">Suggestions</Nav.Link>
+
         </Nav>
         
     </Navbar.Collapse>
     </Navbar>
-    <header>The Ethical Dilemma of Automation
-Replacing the Workforce</header>
+    {/* <strong className="title">The Ethical Dilemma of Automation
+Replacing the Workforce</strong> */}
+<Jumbotron fluid>
+  <Container>
+    <h1>The Ethical Dilemma of Automation
+        Replacing the Workforce</h1>
+  </Container>
+</Jumbotron>
     </div>
       )}}
