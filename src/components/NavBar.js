@@ -22,7 +22,7 @@ export default class HomePage extends React.Component {
     <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
         <Nav.Link href="/research-website2">Home</Nav.Link>
-        <Nav.Link href="/#/minorities">Systemic Racism & Education
+        <Nav.Link href="/research-website2/#/minorities">Systemic Racism & Education
 </Nav.Link>
         {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
             <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
@@ -31,7 +31,7 @@ export default class HomePage extends React.Component {
             <NavDropdown.Divider />
             <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
         </NavDropdown> */}
-         <Nav.Link href="/#/suggestions">Suggestions</Nav.Link>
+         <Nav.Link href="/research-website2/#/suggestions">Suggestions</Nav.Link>
 
         </Nav>
 
