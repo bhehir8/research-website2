@@ -7,20 +7,20 @@ import Suggestions from './components/Suggestions';
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 
 
 function App() {
   return (
     <div className="App">
       <NavBar/>
-          <BrowserRouter>
+          <HashRouter basename='/'>
               <Switch>
-              <Route exact path="/research-website2" component={HomePage} />
-              <Route path="/research-website2/minorities" component={Minorities} />
-              <Route path="/research-website2/suggestions" component={Suggestions} />
+              <Route exact path="/" component={HomePage} />
+              <Route path="/minorities" component={Minorities} />
+              <Route path="/suggestions" component={Suggestions} />
               </Switch>
-          </BrowserRouter>
+          </HashRouter>
           <Footer/>
 
           </div>
