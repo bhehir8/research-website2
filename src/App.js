@@ -16,18 +16,18 @@ function App() {
       <NavBar/>
           <BrowserRouter>
               <Switch>
-              <Route exact path="/research-website" component={HomePage} />
-              <Route path="/research-website/minorities" component={Minorities} />
-              <Route path="/research-website/suggestions" component={Suggestions} />
+              <Route exact path="/research-website2" component={HomePage} />
+              <Route path="/research-website2/minorities" component={Minorities} />
+              <Route path="/research-website2/suggestions" component={Suggestions} />
               </Switch>
           </BrowserRouter>
           <Footer/>
 
           </div>
-      
-    
+
+
   );
-    
+
 }
 
 export default App;

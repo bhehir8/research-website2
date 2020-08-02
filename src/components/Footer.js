@@ -5,34 +5,23 @@ import React from 'react';
 export default class Footer extends React.Component{
 render(){
     return(
-<MDBFooter color="red" className="font-small pt-4 mt-4 fixed-bottom">
+<MDBFooter color="red" className="font-small pt-4 mt-4 ">
       <MDBContainer fluid className="text-center text-md-left">
         <MDBRow>
-        <MDBCol md="1">
-      <img
-        src={brendan}
-        width="100"
-        height="150"
-        className="d-inline-block align-top"
-      />
-            
-          </MDBCol>
+
           <MDBCol >
             <h5 className="title">Brendan Hehir</h5>
             <p>
-              Aerobic Machine
+              Advanced Writting in the Technical Professions
             </p>
-            <p>
-              Always Feeling Dangerous
-            </p>
-            
+
           </MDBCol>
           <MDBCol >
             <h5 className="title">Contact</h5>
             <ul>
               {/* <li className="list-unstyled"> */}
               <p>
-              Any Place, Any Time           
+              hehir.b@northeastern.edu
                 </p>
               {/* </li> */}
             </ul>
