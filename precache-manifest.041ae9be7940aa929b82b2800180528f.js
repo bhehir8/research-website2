@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ced47f736ef1c269ea4a6ab50ac9c71f",
+    "revision": "dd5c99d9c3c91c12f146e414474f6cfc",
     "url": "/research-website2/index.html"
   },
   {
-    "revision": "925f51e2e4c9ce1c1bb8",
+    "revision": "34373ee13fe16a62b44e",
     "url": "/research-website2/static/css/2.831bd61b.chunk.css"
   },
   {
-    "revision": "f0281059a5358a5ff926",
-    "url": "/research-website2/static/css/main.370f2564.chunk.css"
+    "revision": "f35604ad4c947c238ea5",
+    "url": "/research-website2/static/css/main.bd0ae100.chunk.css"
   },
   {
-    "revision": "925f51e2e4c9ce1c1bb8",
-    "url": "/research-website2/static/js/2.d42d40f4.chunk.js"
+    "revision": "34373ee13fe16a62b44e",
+    "url": "/research-website2/static/js/2.c636b13a.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/research-website2/static/js/2.d42d40f4.chunk.js.LICENSE.txt"
+    "url": "/research-website2/static/js/2.c636b13a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0281059a5358a5ff926",
-    "url": "/research-website2/static/js/main.94769627.chunk.js"
+    "revision": "f35604ad4c947c238ea5",
+    "url": "/research-website2/static/js/main.8d112c51.chunk.js"
   },
   {
     "revision": "74fbda02df4791e05e85",
@@ -36,6 +36,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/research-website2/static/media/Northeastern_University_Logo_full.0776fbb2.png"
   },
   {
+    "revision": "0c9f604d1b10e78a7ec514c7c54f434a",
+    "url": "/research-website2/static/media/School_split_graphic.0c9f604d.PNG"
+  },
+  {
+    "revision": "b383c731e21bcbdc3ba07cce0e5727ba",
+    "url": "/research-website2/static/media/Table.b383c731.PNG"
+  },
+  {
     "revision": "11911410dca2de148f30954eb2fd5eab",
     "url": "/research-website2/static/media/arrow_left.11911410.svg"
   },
@@ -46,5 +54,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
     "url": "/research-website2/static/media/logo.ee7cd8ed.svg"
+  },
+  {
+    "revision": "70ed4baffb7a2affd013e3cadafae9d8",
+    "url": "/research-website2/static/media/robot.70ed4baf.jpg"
   }
 ]);

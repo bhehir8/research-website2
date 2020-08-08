@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/research-website2/static/css/main.370f2564.chunk.css",
-    "main.js": "/research-website2/static/js/main.94769627.chunk.js",
-    "main.js.map": "/research-website2/static/js/main.94769627.chunk.js.map",
+    "main.css": "/research-website2/static/css/main.bd0ae100.chunk.css",
+    "main.js": "/research-website2/static/js/main.8d112c51.chunk.js",
+    "main.js.map": "/research-website2/static/js/main.8d112c51.chunk.js.map",
     "runtime-main.js": "/research-website2/static/js/runtime-main.9d3d9463.js",
     "runtime-main.js.map": "/research-website2/static/js/runtime-main.9d3d9463.js.map",
     "static/css/2.831bd61b.chunk.css": "/research-website2/static/css/2.831bd61b.chunk.css",
-    "static/js/2.d42d40f4.chunk.js": "/research-website2/static/js/2.d42d40f4.chunk.js",
-    "static/js/2.d42d40f4.chunk.js.map": "/research-website2/static/js/2.d42d40f4.chunk.js.map",
+    "static/js/2.c636b13a.chunk.js": "/research-website2/static/js/2.c636b13a.chunk.js",
+    "static/js/2.c636b13a.chunk.js.map": "/research-website2/static/js/2.c636b13a.chunk.js.map",
     "index.html": "/research-website2/index.html",
-    "precache-manifest.e297cc21e6859e1394c515cb43c86a0c.js": "/research-website2/precache-manifest.e297cc21e6859e1394c515cb43c86a0c.js",
+    "precache-manifest.041ae9be7940aa929b82b2800180528f.js": "/research-website2/precache-manifest.041ae9be7940aa929b82b2800180528f.js",
     "service-worker.js": "/research-website2/service-worker.js",
     "static/css/2.831bd61b.chunk.css.map": "/research-website2/static/css/2.831bd61b.chunk.css.map",
-    "static/css/main.370f2564.chunk.css.map": "/research-website2/static/css/main.370f2564.chunk.css.map",
-    "static/js/2.d42d40f4.chunk.js.LICENSE.txt": "/research-website2/static/js/2.d42d40f4.chunk.js.LICENSE.txt",
+    "static/css/main.bd0ae100.chunk.css.map": "/research-website2/static/css/main.bd0ae100.chunk.css.map",
+    "static/js/2.c636b13a.chunk.js.LICENSE.txt": "/research-website2/static/js/2.c636b13a.chunk.js.LICENSE.txt",
     "static/media/Brendan_web.png": "/research-website2/static/media/Brendan_web.380246f3.png",
     "static/media/Northeastern_University_Logo_full.png": "/research-website2/static/media/Northeastern_University_Logo_full.0776fbb2.png",
+    "static/media/School_split_graphic.PNG": "/research-website2/static/media/School_split_graphic.0c9f604d.PNG",
+    "static/media/Table.PNG": "/research-website2/static/media/Table.b383c731.PNG",
     "static/media/mdb.css": "/research-website2/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/logo.svg": "/research-website2/static/media/logo.ee7cd8ed.svg"
+    "static/media/logo.svg": "/research-website2/static/media/logo.ee7cd8ed.svg",
+    "static/media/robot.jpg": "/research-website2/static/media/robot.70ed4baf.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9d3d9463.js",
     "static/css/2.831bd61b.chunk.css",
-    "static/js/2.d42d40f4.chunk.js",
-    "static/css/main.370f2564.chunk.css",
-    "static/js/main.94769627.chunk.js"
+    "static/js/2.c636b13a.chunk.js",
+    "static/css/main.bd0ae100.chunk.css",
+    "static/js/main.8d112c51.chunk.js"
   ]
 }
