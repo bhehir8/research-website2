@@ -85,7 +85,7 @@ Replacing the Workforce</strong> */}
             </Badge>{" "}
           </div>
 
-          <Parallax className="custom-class" y={[-3, 3]} tagOuter="figure">
+          <Parallax className="custom-class" y={[-3, 3.2]} tagOuter="figure">
             <Image className="robot" src={robot} />
           </Parallax>
         </main>
