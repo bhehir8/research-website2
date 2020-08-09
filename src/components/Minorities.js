@@ -52,8 +52,8 @@ Replacing the Workforce</strong> */}
           <p className="left">
             &nbsp;&nbsp;&nbsp;&nbsp;The table indicates that white and Asian
             students make up a disproportionately high percentage of the more
-            selective school, with black and Hispanic students being
-            underrepresented at these universities. Thus, the black and Hispanic
+            selective school, with Black and Hispanic students being
+            underrepresented at these universities. Thus, the Black and Hispanic
             populations are overrepresented in the less prestigious schools. The
             image below graphically illustrates the message above.
           </p>

@@ -47,10 +47,10 @@ Replacing the Workforce</strong> */}
                 robots and increasingly sophisticated software are poised to
                 replace the jobs held by middle skilled individuals. Middle
                 skilled jobs include manufacturers, office clerks, and
-                researchers & data entry. The automation of these middle skilled
+                researchers. The automation of these middle skilled
                 jobs will make them more efficient, and as a result, there will
                 be an increased demand for high skilled level positions such as
-                managers, technical professionals. High skilled jobs usually
+                managers and technical professionals. High skilled jobs usually
                 require college degrees in order to be qualified. Since these
                 high skilled and high paying jobs are increasing for those with
                 the credentials, there is increased demand for lower skilled
@@ -73,13 +73,9 @@ Replacing the Workforce</strong> */}
                 major disadvantage to attain the high paying jobs. This is the
                 cycle of poverty, which is nothing new. However, by eliminating
                 the middle skilled jobs, it makes it much more difficult to
-                escape poverty.
-              </p>
-              <br />
-              <p>
-                This is even more concerning when considering that the already
-                marginalized minority populations are poised to suffer the most
-                as a result.
+                escape poverty. This is even more concerning when considering that the already
+                  marginalized minority populations are poised to suffer the most
+                  as a result.
               </p>
               <br />
             </div>
