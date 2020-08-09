@@ -18,9 +18,9 @@ Replacing the Workforce</strong> */}
         </Jumbotron>
         <div className="main-text">
           <p className="left">
-            One of the most effective ways to diminish the effects job
+            One of the most effective ways to diminish the effects of job
             polarization and it’s racial consequences is to restructure the
-            education system. I’ve outlines 3 tips to do so below.
+            education system. I’ve outlined 3 tips to do so below.
           </p>
           <p className="left">
             <ol type="1">
@@ -31,12 +31,12 @@ Replacing the Workforce</strong> */}
                 All public schools, regardless of nearby property value, should
                 be given equal funding. This would require restructuring the way
                 schools receive funding from the government. As opposed to
-                having property taxes only serve the school districts within its
-                borders, the property taxes ought to be pooled across the state.
-                From this large pool of money, each school should be funded
-                accordingly based off the number of students they serve. This
-                would even the educational playing field for children across all
-                communities.
+                having property taxes only serving the school districts within
+                its borders, the property taxes ought to be pooled across the
+                state. From this large pool of money, each school should be
+                funded accordingly based off the number of students they serve.
+                This would even the educational playing field for children
+                across all communities.
               </p>
               <li>
                 <strong>Hold Higher Education Accountable</strong>
