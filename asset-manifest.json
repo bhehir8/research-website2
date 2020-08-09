@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/research-website2/static/css/main.bd0ae100.chunk.css",
-    "main.js": "/research-website2/static/js/main.8d112c51.chunk.js",
-    "main.js.map": "/research-website2/static/js/main.8d112c51.chunk.js.map",
+    "main.css": "/research-website2/static/css/main.7402bbad.chunk.css",
+    "main.js": "/research-website2/static/js/main.85a62ce0.chunk.js",
+    "main.js.map": "/research-website2/static/js/main.85a62ce0.chunk.js.map",
     "runtime-main.js": "/research-website2/static/js/runtime-main.9d3d9463.js",
     "runtime-main.js.map": "/research-website2/static/js/runtime-main.9d3d9463.js.map",
     "static/css/2.831bd61b.chunk.css": "/research-website2/static/css/2.831bd61b.chunk.css",
     "static/js/2.c636b13a.chunk.js": "/research-website2/static/js/2.c636b13a.chunk.js",
     "static/js/2.c636b13a.chunk.js.map": "/research-website2/static/js/2.c636b13a.chunk.js.map",
     "index.html": "/research-website2/index.html",
-    "precache-manifest.041ae9be7940aa929b82b2800180528f.js": "/research-website2/precache-manifest.041ae9be7940aa929b82b2800180528f.js",
+    "precache-manifest.bb2a0bcc0ea4b6f83536bd3128ad34ae.js": "/research-website2/precache-manifest.bb2a0bcc0ea4b6f83536bd3128ad34ae.js",
     "service-worker.js": "/research-website2/service-worker.js",
     "static/css/2.831bd61b.chunk.css.map": "/research-website2/static/css/2.831bd61b.chunk.css.map",
-    "static/css/main.bd0ae100.chunk.css.map": "/research-website2/static/css/main.bd0ae100.chunk.css.map",
+    "static/css/main.7402bbad.chunk.css.map": "/research-website2/static/css/main.7402bbad.chunk.css.map",
     "static/js/2.c636b13a.chunk.js.LICENSE.txt": "/research-website2/static/js/2.c636b13a.chunk.js.LICENSE.txt",
     "static/media/Brendan_web.png": "/research-website2/static/media/Brendan_web.380246f3.png",
     "static/media/Northeastern_University_Logo_full.png": "/research-website2/static/media/Northeastern_University_Logo_full.0776fbb2.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.9d3d9463.js",
     "static/css/2.831bd61b.chunk.css",
     "static/js/2.c636b13a.chunk.js",
-    "static/css/main.bd0ae100.chunk.css",
-    "static/js/main.8d112c51.chunk.js"
+    "static/css/main.7402bbad.chunk.css",
+    "static/js/main.85a62ce0.chunk.js"
   ]
 }
